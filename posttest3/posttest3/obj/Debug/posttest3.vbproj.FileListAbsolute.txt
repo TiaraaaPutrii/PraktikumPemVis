@@ -1,0 +1,13 @@
+D:\Visual Studio 2022\posttest3\posttest3\obj\Debug\posttest3.vbproj.AssemblyReference.cache
+D:\Visual Studio 2022\posttest3\posttest3\obj\Debug\posttest3.Form1.resources
+D:\Visual Studio 2022\posttest3\posttest3\obj\Debug\posttest3.Resources.resources
+D:\Visual Studio 2022\posttest3\posttest3\obj\Debug\posttest3.vbproj.GenerateResource.cache
+D:\Visual Studio 2022\posttest3\posttest3\obj\Debug\posttest3.vbproj.CoreCompileInputs.cache
+D:\Visual Studio 2022\posttest3\posttest3\obj\Debug\posttest3.Form2.resources
+D:\Visual Studio 2022\posttest3\posttest3\bin\Debug\posttest3.exe.config
+D:\Visual Studio 2022\posttest3\posttest3\bin\Debug\posttest3.exe
+D:\Visual Studio 2022\posttest3\posttest3\bin\Debug\posttest3.pdb
+D:\Visual Studio 2022\posttest3\posttest3\bin\Debug\posttest3.xml
+D:\Visual Studio 2022\posttest3\posttest3\obj\Debug\posttest3.exe
+D:\Visual Studio 2022\posttest3\posttest3\obj\Debug\posttest3.xml
+D:\Visual Studio 2022\posttest3\posttest3\obj\Debug\posttest3.pdb
